@@ -22,4 +22,4 @@ I'm focused on building practical projects to explore how AI can help solve real
 I'm currently building practical projects to apply what I've learned. Project documentation and demonstrations will be added as they are completed.
 
 ## Connect With Me
-- GitHub: https://github.com/yusronbernardoo
+- GitHub: https://github.com/yusronabdillah

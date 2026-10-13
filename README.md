@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Muhammad Yusron Abdillah 👋
 
-<!--
-**yusronabdillah/yusronabdillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Technology Enthusiast
 
-Here are some ideas to get you started:
+I'm developing my knowledge and practical experience in Artificial Intelligence, AI Agents, and Large Language Models (LLMs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on building practical projects to explore how AI can help solve real-world problems.
+
+## Areas of Interest
+- AI Agents and AI Workflows
+- Large Language Models (LLMs)
+- Generative AI Applications
+- AI-Powered Productivity Tools
+
+## Certifications
+- Build an AI Agent — IBM SkillsBuild
+- Intelligent by Design: Build an AI Agent
+- Introduction to Large Language Models
+- Lab: Troubleshoot Your Code Using IBM Bob
+
+## Projects
+I'm currently building practical projects to apply what I've learned. Project documentation and demonstrations will be added as they are completed.
+
+## Connect With Me
+- GitHub: https://github.com/yusronbernardoo
